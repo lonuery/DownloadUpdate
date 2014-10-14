@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<update>  
+        <name>2.2</name>  
+        <versionCode>3</versionCode>
+        <url>http://192.168.1.101:8080/app/ITalkie_picc.apk</url>
+</update>
